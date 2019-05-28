@@ -4,7 +4,7 @@ We provide demonstration codes associated to the article arXiv: <http://arxiv.or
 
 ###
   * [Python code: AMP, LAMP and PCA benchmark](/Demo_AMP_SE_Spectral)
-  * [Python code: LAMP, PCA benchmark on MNIST/FashionMNIST Dataset](/Demo_MNIST)
+  * [Python code: LAMP, PCA benchmark on MNIST/FashionMNIST](/Demo_MNIST)
   * [Mathematica notebook: for random matrix theory computatuions](/Demo_RMT)
 
 
