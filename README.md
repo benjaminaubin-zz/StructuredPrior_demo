@@ -2,6 +2,12 @@
 
 We provide demonstration codes associated to the article arXiv: <http://arxiv.org/>
 
+###
+[Python code for AMP, LAMP, PCA](../Demo_AMP_SE_Spectral)
+[Python code on MNIST/FashionMNIST Dataset](../Demo_MNIST)
+[Mathematica notebook for random matrix theory computatuions](../Demo_RMT)
+
+
 
 ## Abstract
 Using a low-dimensional parametrization of signals is a generic and powerful way to enhance performance in signal processing and statistical inference. A very popular and widely explored type of dimensionality reduction is sparsity; another
