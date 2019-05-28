@@ -3,9 +3,9 @@
 We provide demonstration codes associated to the article arXiv: <http://arxiv.org/>
 
 ###
-[Python code for AMP, LAMP, PCA](../Demo_AMP_SE_Spectral)
-[Python code on MNIST/FashionMNIST Dataset](../Demo_MNIST)
-[Mathematica notebook for random matrix theory computatuions](../Demo_RMT)
+  * [Python code for AMP, LAMP, PCA](../Demo_AMP_SE_Spectral)
+  * [Python code on MNIST/FashionMNIST Dataset](../Demo_MNIST)
+  * [Mathematica notebook for random matrix theory computatuions](../Demo_RMT)
 
 
 
