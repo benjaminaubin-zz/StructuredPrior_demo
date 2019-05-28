@@ -20,3 +20,6 @@ enhanced spectral algorithms and analyze their performance and
 thresholds using random matrix theory, showing their superiority to the
 classical principal component analysis. We complement our theoretical
 results by illustrating the performance of the spectral algorithms when the spikes come from real datasets.
+
+Benjamin Aubin$^\dagger$, Bruno Loureiro$^\dagger$, Antoine Maillard$^\star$ \\ 
+Florent Krzakala$^\star$, Lenka Zdeborov{\'a}
