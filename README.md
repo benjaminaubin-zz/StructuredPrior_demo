@@ -21,4 +21,4 @@ thresholds using random matrix theory, showing their superiority to the
 classical principal component analysis. We complement our theoretical
 results by illustrating the performance of the spectral algorithms when the spikes come from real datasets.
 
-Benjamin Aubin, Bruno Loureiro, Antoine Maillard, Florent Krzakala, Lenka Zdeborova
+*Benjamin Aubin, Bruno Loureiro, Antoine Maillard, Florent Krzakala, Lenka Zdeborova*
