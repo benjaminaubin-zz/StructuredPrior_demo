@@ -1,6 +1,6 @@
 # The spiked matrix model with generative priors
 
-We provide demonstration codes associated to the article arXiv: <https://arxiv.org/abs/1905.12385>
+We provide demonstration codes associated to the article : <https://arxiv.org/abs/1905.12385>
 
 ###
   * [Python code: AMP, LAMP and PCA benchmark](/Demo_AMP_SE_Spectral)
