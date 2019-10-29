@@ -8,7 +8,6 @@ We provide demonstration codes associated to the article : <https://arxiv.org/ab
   * [Mathematica notebook: random matrix theory demonstration](/Demo_RMT)
 
 
-
 ## Abstract
 Using a low-dimensional parametrization of signals is a generic and powerful way to enhance performance in signal processing and statistical inference. A very popular and widely explored type of dimensionality reduction is sparsity; another
 type is generative modelling of signal distributions. Generative models based on neural networks, such as GANs or variational auto-encoders,
@@ -28,3 +27,10 @@ classical principal component analysis. We complement our theoretical
 results by illustrating the performance of the spectral algorithms when the spikes come from real datasets.
 
 _Benjamin Aubin_, _Bruno Loureiro_, _Antoine Maillard_, _Florent Krzakala_, _Lenka Zdeborová_
+
+
+## [Poster](/Poster/Poster_NeurIPS2019_StructuredPrior.pdf)
+
+## [Video](https://youtu.be/0XEVjCL_9Dk)
+
+## [Slides](/Slides/Slides_NeurIPS2019_StructuredPrior.pdf)
